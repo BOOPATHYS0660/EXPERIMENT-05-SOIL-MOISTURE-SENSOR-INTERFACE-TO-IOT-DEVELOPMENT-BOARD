@@ -272,10 +272,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots on serial monitor   :
 
-<img width="1918" height="1010" alt="exp5_image1" src="https://github.com/user-attachments/assets/6734fef3-f567-475e-bb56-dbdcc1c58868" />
+<img width="861" height="1015" alt="WhatsApp Image 2026-09-29 at 11 02 52 AM" src="https://github.com/user-attachments/assets/840bb16c-b4ac-4cb1-b629-22a964ba2f54" />
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-25 at 9 34 21 AM" src="https://github.com/user-attachments/assets/36bae75d-379b-4cb7-807f-1bdc930da239" />
 
+<img width="1448" height="1086" alt="WhatsApp Image 2026-09-29 at 11 09 15 AM" src="https://github.com/user-attachments/assets/e0ff6456-c6a9-45ae-b7ff-5814b3608f71" />
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
